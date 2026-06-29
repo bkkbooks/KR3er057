@@ -1,0 +1,1928 @@
+canonical_identifier: bkk:krp/KR3er057/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3er057/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 石室秘錄
+  identifiers:
+    krp: KR3er057
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er057.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3er057_000-jc.yaml, hash: 'sha256:9cb25b8205d6fb427b33f7c6ec783ec745c0bc78fb4fc2ce3050530f17b411c4'}
+  - {seq: 1, filename: KR3er057_001-jc.yaml, hash: 'sha256:b20ca49e08f987fe9040e7bac3a6ef5e800add77ef6dc1dae8e5dad71fdc0be8'}
+  - {seq: 2, filename: KR3er057_002-jc.yaml, hash: 'sha256:f4e1550ac3095c53d95b3feb4229980cf2fdaf1453ced410a990a9e7150e3715'}
+  - {seq: 3, filename: KR3er057_003-jc.yaml, hash: 'sha256:40731ee12becbb992e051575dd0951a2ecb8ec8857c885d9f02dc01c6041e6b0'}
+  - {seq: 4, filename: KR3er057_004-jc.yaml, hash: 'sha256:43407a75536bb1614e60ad51e436b306e3d3b7b0919508e3772941997f90aef0'}
+  - {seq: 5, filename: KR3er057_005-jc.yaml, hash: 'sha256:7885fbf733f41552a8a679def06e3db657250136866069660f378c26852fb759'}
+  - {seq: 6, filename: KR3er057_006-jc.yaml, hash: 'sha256:6ff7677d6c1e4a92dc3edd9150d78fe1a70bbeca05232a13c4b5817a123917a4'}
+  - {seq: 0, filename: KR3er057_000-jc.yaml, hash: 'sha256:8927e36e34066ead89d8b28319ed7d5b6d5dc5534c54eaf570b3c0200b77a450'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er057_000-jc.markers.yaml, hash: 'sha256:42c718898d735fb93192608a93ca014c69550e3cac247f03f5ddbf3161670faa'}
+  - {seq: 1, role: markers, filename: assets/KR3er057_001-jc.markers.yaml, hash: 'sha256:e4349e06b72bbf84355dce3f0480334e6c9d4757be38b2719a9b4290c016a5fe'}
+  - {seq: 2, role: markers, filename: assets/KR3er057_002-jc.markers.yaml, hash: 'sha256:477bca23d48b31e10645c1898a66f321e97bc7f6ce33f26f757bd46e21a0dd10'}
+  - {seq: 3, role: markers, filename: assets/KR3er057_003-jc.markers.yaml, hash: 'sha256:31a12c77b390da246a4443b401e51c6b870a3397a6f7b09fa6025e08dc50e8c5'}
+  - {seq: 4, role: markers, filename: assets/KR3er057_004-jc.markers.yaml, hash: 'sha256:5128b71dd41e908207f2f10c55eb6344850c60bd98dfa66cfc6a30727dd56e09'}
+  - {seq: 5, role: markers, filename: assets/KR3er057_005-jc.markers.yaml, hash: 'sha256:f748912d4e8e2437f61be7f361982826133e0df0edc030b5387507c8274a72f9'}
+  - {seq: 6, role: markers, filename: assets/KR3er057_006-jc.markers.yaml, hash: 'sha256:b69cdf1e14772dc9290950d0b577d5a55b47bc797807e83fa167bd9311b21823'}
+  - {seq: 0, role: markers, filename: assets/KR3er057_000-jc.markers.yaml, hash: 'sha256:42c718898d735fb93192608a93ca014c69550e3cac247f03f5ddbf3161670faa'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er057_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 780
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er057_jc_000-d3.h1s1
+    span:
+    - front
+    - 780
+    - 1210
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er057_jc_000-d4.h1s1
+    span:
+    - front
+    - 1210
+    - 1539
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er057_jc_000-d5.h1s1
+    span:
+    - front
+    - 1539
+    - 2129
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6.h1s1
+    span:
+    - body
+    - 0
+    - 21626
+  label: 卷一禮集
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6d4
+    span:
+    - body
+    - 105
+    - 2263
+  label: 正醫法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6d5
+    span:
+    - body
+    - 2263
+    - 3134
+  label: 反醫法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6d6
+    span:
+    - body
+    - 3134
+    - 3457
+  label: 順醫法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6d7
+    span:
+    - body
+    - 3457
+    - 5598
+  label: 逆醫法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6d8
+    span:
+    - body
+    - 5598
+    - 6422
+  label: 內治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6d9
+    span:
+    - body
+    - 6422
+    - 7825
+  label: 外治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6d10
+    span:
+    - body
+    - 7825
+    - 8980
+  label: 完治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6d11
+    span:
+    - body
+    - 8980
+    - 11622
+  label: 碎治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6d12
+    span:
+    - body
+    - 11622
+    - 12825
+  label: 大治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6d13
+    span:
+    - body
+    - 12825
+    - 13261
+  label: 小治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6d14
+    span:
+    - body
+    - 13261
+    - 17019
+  label: 偏治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6d15
+    span:
+    - body
+    - 17019
+    - 18439
+  label: 全治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6d16
+    span:
+    - body
+    - 18439
+    - 20101
+  label: 生治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er057_jc_001-d6d17
+    span:
+    - body
+    - 20101
+    - 21626
+  label: 死治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7.h1s1
+    span:
+    - body
+    - 0
+    - 26125
+  label: 卷二樂集
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d2
+    span:
+    - body
+    - 4
+    - 2291
+  label: 上治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d3
+    span:
+    - body
+    - 2291
+    - 2652
+  label: 中治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d4
+    span:
+    - body
+    - 2652
+    - 4295
+  label: 下治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d5
+    span:
+    - body
+    - 4295
+    - 5091
+  label: 先治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d6
+    span:
+    - body
+    - 5091
+    - 5617
+  label: 後治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d7
+    span:
+    - body
+    - 5617
+    - 7106
+  label: 急治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d8
+    span:
+    - body
+    - 7106
+    - 7988
+  label: 緩治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d9
+    span:
+    - body
+    - 7988
+    - 9378
+  label: 本治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d10
+    span:
+    - body
+    - 9378
+    - 10353
+  label: 末治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d11
+    span:
+    - body
+    - 10353
+    - 11047
+  label: 不內外治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d12
+    span:
+    - body
+    - 11047
+    - 11686
+  label: 陰治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d13
+    span:
+    - body
+    - 11686
+    - 12725
+  label: 陽治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d14
+    span:
+    - body
+    - 12725
+    - 13687
+  label: 假治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d15
+    span:
+    - body
+    - 13687
+    - 14225
+  label: 真治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d16
+    span:
+    - body
+    - 14225
+    - 14988
+  label: 男治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d17
+    span:
+    - body
+    - 14988
+    - 15756
+  label: 女治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d18
+    span:
+    - body
+    - 15756
+    - 16363
+  label: 虛治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d19
+    span:
+    - body
+    - 16363
+    - 16713
+  label: 實治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d20
+    span:
+    - body
+    - 16713
+    - 17488
+  label: 寒治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d21
+    span:
+    - body
+    - 17488
+    - 18191
+  label: 熱治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d22
+    span:
+    - body
+    - 18191
+    - 19242
+  label: 通治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d23
+    span:
+    - body
+    - 19242
+    - 19983
+  label: 塞治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d24
+    span:
+    - body
+    - 19983
+    - 20723
+  label: 解治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d25
+    span:
+    - body
+    - 20723
+    - 21897
+  label: 斂治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d26
+    span:
+    - body
+    - 21897
+    - 22643
+  label: 升治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d27
+    span:
+    - body
+    - 22643
+    - 23337
+  label: 墮治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d28
+    span:
+    - body
+    - 23337
+    - 24115
+  label: 開治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d29
+    span:
+    - body
+    - 24115
+    - 25541
+  label: 閉治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d30
+    span:
+    - body
+    - 25541
+    - 25871
+  label: 吐治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er057_jc_002-d7d31
+    span:
+    - body
+    - 25871
+    - 26125
+  label: 泄治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8.h1s1
+    span:
+    - body
+    - 0
+    - 23968
+  label: 卷三射集
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d2
+    span:
+    - body
+    - 4
+    - 355
+  label: 王治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d3
+    span:
+    - body
+    - 355
+    - 1633
+  label: 霸治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d4
+    span:
+    - body
+    - 1633
+    - 2047
+  label: 倒治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d5
+    span:
+    - body
+    - 2047
+    - 2429
+  label: 縛治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d6
+    span:
+    - body
+    - 2429
+    - 2844
+  label: 肥治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d7
+    span:
+    - body
+    - 2844
+    - 3179
+  label: 瘦治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d8
+    span:
+    - body
+    - 3179
+    - 3561
+  label: 摩治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d9
+    span:
+    - body
+    - 3561
+    - 3852
+  label: 浴治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d10
+    span:
+    - body
+    - 3852
+    - 4255
+  label: 達治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d11
+    span:
+    - body
+    - 4255
+    - 4438
+  label: 發治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d12
+    span:
+    - body
+    - 4438
+    - 4855
+  label: 奪治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d13
+    span:
+    - body
+    - 4855
+    - 5543
+  label: 深治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d14
+    span:
+    - body
+    - 5543
+    - 5691
+  label: 淺治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d15
+    span:
+    - body
+    - 5691
+    - 7223
+  label: 長治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d16
+    span:
+    - body
+    - 7223
+    - 7635
+  label: 短治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d17
+    span:
+    - body
+    - 7635
+    - 8132
+  label: 日治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d18
+    span:
+    - body
+    - 8132
+    - 8836
+  label: 夜治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d19
+    span:
+    - body
+    - 8836
+    - 9228
+  label: 氣治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d20
+    span:
+    - body
+    - 9228
+    - 9932
+  label: 血治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d21
+    span:
+    - body
+    - 9932
+    - 10987
+  label: 臟治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d22
+    span:
+    - body
+    - 10987
+    - 11858
+  label: 腑治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d23
+    span:
+    - body
+    - 11858
+    - 12118
+  label: 常治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d24
+    span:
+    - body
+    - 12118
+    - 14034
+  label: 變治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d25
+    span:
+    - body
+    - 14034
+    - 14888
+  label: 初治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d26
+    span:
+    - body
+    - 14888
+    - 15620
+  label: 終治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d27
+    span:
+    - body
+    - 15620
+    - 16108
+  label: 專治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d28
+    span:
+    - body
+    - 16108
+    - 17122
+  label: 分治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d29
+    span:
+    - body
+    - 17122
+    - 17513
+  label: 同治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d30
+    span:
+    - body
+    - 17513
+    - 17963
+  label: 異治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d31
+    span:
+    - body
+    - 17963
+    - 18228
+  label: 勞治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d32
+    span:
+    - body
+    - 18228
+    - 18748
+  label: 逸治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d33
+    span:
+    - body
+    - 18748
+    - 19211
+  label: 吸治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d34
+    span:
+    - body
+    - 19211
+    - 19728
+  label: 引治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d35
+    span:
+    - body
+    - 19728
+    - 20079
+  label: 單治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d36
+    span:
+    - body
+    - 20079
+    - 20813
+  label: 雙治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d37
+    span:
+    - body
+    - 20813
+    - 21277
+  label: 立治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d38
+    span:
+    - body
+    - 21277
+    - 22139
+  label: 臥治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d39
+    span:
+    - body
+    - 22139
+    - 22999
+  label: 飢治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er057_jc_003-d8d40
+    span:
+    - body
+    - 22999
+    - 23968
+  label: 飽治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9.h1s1
+    span:
+    - body
+    - 0
+    - 25711
+  label: 卷四御集
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d2
+    span:
+    - body
+    - 4
+    - 256
+  label: 富治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d3
+    span:
+    - body
+    - 256
+    - 521
+  label: 貧治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d4
+    span:
+    - body
+    - 521
+    - 3063
+  label: 產前治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d5
+    span:
+    - body
+    - 3063
+    - 4292
+  label: 產後治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d6
+    span:
+    - body
+    - 4292
+    - 4791
+  label: 老治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d7
+    span:
+    - body
+    - 4791
+    - 5032
+  label: 少治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d8
+    span:
+    - body
+    - 5032
+    - 5193
+  label: 東南治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d9
+    span:
+    - body
+    - 5193
+    - 5385
+  label: 西北治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d10
+    span:
+    - body
+    - 5385
+    - 5710
+  label: 皮毛治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d11
+    span:
+    - body
+    - 5710
+    - 6313
+  label: 肌膚治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d12
+    span:
+    - body
+    - 6313
+    - 7032
+  label: 筋脈治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d13
+    span:
+    - body
+    - 7032
+    - 7365
+  label: 溫治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d14
+    span:
+    - body
+    - 7365
+    - 7672
+  label: 清治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d15
+    span:
+    - body
+    - 7672
+    - 8418
+  label: 收治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d16
+    span:
+    - body
+    - 8418
+    - 8732
+  label: 散治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d17
+    span:
+    - body
+    - 8732
+    - 9582
+  label: 軟治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d18
+    span:
+    - body
+    - 9582
+    - 10118
+  label: 堅治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d19
+    span:
+    - body
+    - 10118
+    - 11334
+  label: 抑治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d20
+    span:
+    - body
+    - 11334
+    - 11602
+  label: 揚治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d21
+    span:
+    - body
+    - 11602
+    - 12602
+  label: 痰治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d22
+    span:
+    - body
+    - 12602
+    - 13574
+  label: 火治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d23
+    span:
+    - body
+    - 13574
+    - 13964
+  label: 靜治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d24
+    span:
+    - body
+    - 13964
+    - 14391
+  label: 動治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d25
+    span:
+    - body
+    - 14391
+    - 14660
+  label: 春夏治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d26
+    span:
+    - body
+    - 14660
+    - 14916
+  label: 秋冬治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d27
+    span:
+    - body
+    - 14916
+    - 22908
+  label: 奇治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d28
+    span:
+    - body
+    - 22908
+    - 23084
+  label: 平治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d29
+    span:
+    - body
+    - 23084
+    - 23344
+  label: 奇治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d30
+    span:
+    - body
+    - 23344
+    - 23677
+  label: 偶治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d31
+    span:
+    - body
+    - 23677
+    - 24398
+  label: 形治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d32
+    span:
+    - body
+    - 24398
+    - 24842
+  label: 氣治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d33
+    span:
+    - body
+    - 24842
+    - 25353
+  label: 暗治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er057_jc_004-d9d34
+    span:
+    - body
+    - 25353
+    - 25711
+  label: 明治法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.h1s1
+    span:
+    - body
+    - 0
+    - 22767
+  label: 卷五書集
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d2
+    span:
+    - body
+    - 4
+    - 270
+  label: 久治法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d3
+    span:
+    - body
+    - 270
+    - 710
+  label: 暫治法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d4
+    span:
+    - body
+    - 710
+    - 2521
+  label: 遠治法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d5
+    span:
+    - body
+    - 2521
+    - 3152
+  label: 近治法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d6
+    span:
+    - body
+    - 3152
+    - 3683
+  label: 輕治法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d7
+    span:
+    - body
+    - 3683
+    - 4949
+  label: 重治法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d8
+    span:
+    - body
+    - 4949
+    - 5298
+  label: 瘟疫治法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d9
+    span:
+    - body
+    - 5298
+    - 6467
+  label: 瘴癘治法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d10
+    span:
+    - body
+    - 6467
+    - 6716
+  label: 得治法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d11
+    span:
+    - body
+    - 6716
+    - 7103
+  label: 失治法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d12
+    span:
+    - body
+    - 7103
+    - 7374
+  label: 意治法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d13
+    span:
+    - body
+    - 7374
+    - 7562
+  label: 神治法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d14
+    span:
+    - body
+    - 7562
+    - 17028
+  label: 傷寒相舌秘法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d10
+    span:
+    - body
+    - 8952
+    - 10654
+  label: 一論五行
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d11
+    span:
+    - body
+    - 10654
+    - 11596
+  label: 二論臟腑
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d12
+    span:
+    - body
+    - 11596
+    - 11765
+  label: 三論陰陽
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d13
+    span:
+    - body
+    - 11765
+    - 12171
+  label: 四論晝夜
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d14
+    span:
+    - body
+    - 12171
+    - 12529
+  label: 五論四時
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d15
+    span:
+    - body
+    - 12529
+    - 13096
+  label: 六論氣色
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d16
+    span:
+    - body
+    - 13096
+    - 13307
+  label: 七論脈訣
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d17
+    span:
+    - body
+    - 13307
+    - 13449
+  label: 八論強弱
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d18
+    span:
+    - body
+    - 13449
+    - 13621
+  label: 九論寒熱
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d19
+    span:
+    - body
+    - 13621
+    - 14020
+  label: 十論生死
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d20
+    span:
+    - body
+    - 14020
+    - 14412
+  label: 十一論真假
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d21
+    span:
+    - body
+    - 14412
+    - 14864
+  label: 十二論老少
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d22
+    span:
+    - body
+    - 14864
+    - 15070
+  label: 十三論氣血
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d23
+    span:
+    - body
+    - 15070
+    - 15536
+  label: 十四論命門
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d24
+    span:
+    - body
+    - 15536
+    - 15909
+  label: 十五論任督
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d25
+    span:
+    - body
+    - 15909
+    - 16810
+  label: 十六論子嗣
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10.d14d26
+    span:
+    - body
+    - 16810
+    - 17028
+  label: 十七論瘟疫
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d15
+    span:
+    - body
+    - 17028
+    - 17850
+  label: 岐天師兒科治法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d16
+    span:
+    - body
+    - 17850
+    - 19091
+  label: 諸真人傳授兒科
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d17
+    span:
+    - body
+    - 19091
+    - 19786
+  label: 張真人傳痘疹門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d18
+    span:
+    - body
+    - 19786
+    - 19912
+  label: 錢真人傳痘瘡神方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d19
+    span:
+    - body
+    - 19912
+    - 20225
+  label: 岐天師傳治回毒方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d20
+    span:
+    - body
+    - 20225
+    - 20372
+  label: 岐天師又傳治回毒歲久不愈方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d21
+    span:
+    - body
+    - 20372
+    - 20962
+  label: 岐真人傳兒科秘法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d22
+    span:
+    - body
+    - 20962
+    - 21486
+  label: 長沙張真人傳治小兒感冒風寒方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er057_jc_005-d10d23
+    span:
+    - body
+    - 21486
+    - 22767
+  label: 兒科
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11.h1s1
+    span:
+    - body
+    - 0
+    - 29873
+  label: 卷六數集
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d2
+    span:
+    - body
+    - 4
+    - 9450
+  label: 傷寒門
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d3
+    span:
+    - body
+    - 9450
+    - 10585
+  label: 中寒門
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d4
+    span:
+    - body
+    - 10585
+    - 12198
+  label: 中暑門
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d5
+    span:
+    - body
+    - 12198
+    - 14036
+  label: 水濕門
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d6
+    span:
+    - body
+    - 14036
+    - 14906
+  label: 熱症門
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d7
+    span:
+    - body
+    - 14906
+    - 17899
+  label: 燥症門
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d8
+    span:
+    - body
+    - 17899
+    - 25363
+  label: 內傷門
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d9
+    span:
+    - body
+    - 25363
+    - 25939
+  label: 血症
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d10
+    span:
+    - body
+    - 25939
+    - 26094
+  label: 腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d11
+    span:
+    - body
+    - 26094
+    - 26579
+  label: 喉痛
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d12
+    span:
+    - body
+    - 26579
+    - 26821
+  label: 氣鬱
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d13
+    span:
+    - body
+    - 26821
+    - 27081
+  label: 癲症
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d14
+    span:
+    - body
+    - 27081
+    - 27371
+  label: 狂症
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d15
+    span:
+    - body
+    - 27371
+    - 27916
+  label: 禾病
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d16
+    span:
+    - body
+    - 27916
+    - 28182
+  label: 厥症
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d17
+    span:
+    - body
+    - 28182
+    - 28352
+  label: 斑疹
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d18
+    span:
+    - body
+    - 28352
+    - 28600
+  label: 亡陽
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d19
+    span:
+    - body
+    - 28600
+    - 28858
+  label: 痢疾
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d20
+    span:
+    - body
+    - 28858
+    - 29156
+  label: 五絕
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d21
+    span:
+    - body
+    - 29156
+    - 29340
+  label: 砒毒
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d22
+    span:
+    - body
+    - 29340
+    - 29445
+  label: 虎傷
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d23
+    span:
+    - body
+    - 29445
+    - 29641
+  label: 湯火傷
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er057_jc_006-d11d24
+    span:
+    - body
+    - 29641
+    - 29873
+  label: 癰疽並無名瘡毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er057_jc_000-d12.h1s1
+    span:
+    - body
+    - 0
+    - 105
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:2bcde4ac5a9bb56e52584e2118a34a6d198a42343ced9f3c19b30cf0fa403865

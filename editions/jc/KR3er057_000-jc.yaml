@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3er057/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋余與陳子遠公同里而神交偶得是編讀之嘆為神奇故亟梓以濟世遠公淹貫經史才思泉湧論議數千言娓娓不窮蓋是編原期救人而非即乎採藻竊恐以詞害志故略有所刪改要使雅俗一覽瞭然至定方用藥之間總不敢增減一字知我當不罪我也以謀謹識
+  hash: sha256:fc4dc37f439912fc138c0e2cff8979e8400e98027f434c60e020c43a1f6b1c40
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3er057_jc_000-d12.h1s1}
+metadata:
+  title: 石室秘錄
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er057.xml
+hash: sha256:8927e36e34066ead89d8b28319ed7d5b6d5dc5534c54eaf570b3c0200b77a450
